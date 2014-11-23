@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HUAYRA</Machine>
+    <WindowsUser>Todor Gospodinov</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d31ec9b5-37da-44ff-b8c9-55459a16809f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>18EE91D4D8A42245932069B168EBFFA696A0852C454ACE3C8AA2C37ACC8FA57C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d31ec9b5-37da-44ff-b8c9-55459a16809f_1.0.0.0_neutral__w8acj6vrzhmty</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d31ec9b5-37da-44ff-b8c9-55459a16809f_w8acj6vrzhmty!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d31ec9b5-37da-44ff-b8c9-55459a16809f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Todor Gospodinov</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-23T15:35:44.594</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\MagicBallAdvisor.Windows.exe">
+      <PackagePath>MagicBallAdvisor.Windows.exe</PackagePath>
+      <Modified>2014-11-23T16:12:13.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2014-11-20T20:04:43.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2014-11-20T20:04:43.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2014-11-20T20:04:43.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-11-20T20:04:42.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\Libs\Parse.dll">
+      <PackagePath>Parse.dll</PackagePath>
+      <Modified>2014-10-16T10:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\Libs\Parse.WinRT.dll">
+      <PackagePath>Parse.WinRT.dll</PackagePath>
+      <Modified>2014-10-16T10:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\packages\WriteableBitmapEx.1.0.14.0\lib\NetCore45\WriteableBitmapEx.WinRT.dll">
+      <PackagePath>WriteableBitmapEx.WinRT.dll</PackagePath>
+      <Modified>2014-11-21T20:37:00.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\background.png">
+      <PackagePath>Images\background.png</PackagePath>
+      <Modified>2014-11-19T17:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\magicball.png">
+      <PackagePath>Images\magicball.png</PackagePath>
+      <Modified>2014-11-19T17:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\welcomeText.jpg">
+      <PackagePath>Images\welcomeText.jpg</PackagePath>
+      <Modified>2014-11-22T13:23:35.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-22T21:46:43.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-22T21:56:14.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\Pages\WelcomePage.xbf">
+      <PackagePath>Pages\WelcomePage.xbf</PackagePath>
+      <Modified>2014-11-22T21:46:43.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-11-22T23:35:25.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\Views\WelcomePage.xbf">
+      <PackagePath>Views\WelcomePage.xbf</PackagePath>
+      <Modified>2014-11-23T16:07:40.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\MagicBallAdvisor.Windows.xr.xml">
+      <PackagePath>MagicBallAdvisor.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-23T15:54:20.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-23T16:15:40.842</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

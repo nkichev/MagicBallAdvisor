@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KICHEV</Machine>
+    <WindowsUser>Nikolay Kichev</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>d31ec9b5-37da-44ff-b8c9-55459a16809f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F234088D2156806799868152F474DEE1AF375FF6892B26F2685DF0E550E4EF77</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d31ec9b5-37da-44ff-b8c9-55459a16809f_1.0.0.0_x86__w8acj6vrzhmty</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d31ec9b5-37da-44ff-b8c9-55459a16809f_w8acj6vrzhmty!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d31ec9b5-37da-44ff-b8c9-55459a16809f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Todor Gospodinov</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-23T20:08:44.644</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\MagicBallAdvisor.Windows.exe">
+      <PackagePath>MagicBallAdvisor.Windows.exe</PackagePath>
+      <Modified>2014-11-23T20:55:58.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2014-11-20T20:04:43.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2014-11-20T20:04:43.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2014-11-20T20:04:43.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-11-20T20:04:42.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\Libs\Parse.dll">
+      <PackagePath>Parse.dll</PackagePath>
+      <Modified>2014-10-16T10:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\Libs\Parse.WinRT.dll">
+      <PackagePath>Parse.WinRT.dll</PackagePath>
+      <Modified>2014-10-16T10:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\packages\WriteableBitmapEx.1.0.14.0\lib\NetCore45\WriteableBitmapEx.WinRT.dll">
+      <PackagePath>WriteableBitmapEx.WinRT.dll</PackagePath>
+      <Modified>2014-11-21T20:37:00.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.7.2\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2014-11-23T17:39:29.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\background.png">
+      <PackagePath>Images\background.png</PackagePath>
+      <Modified>2014-11-19T17:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\magicball.png">
+      <PackagePath>Images\magicball.png</PackagePath>
+      <Modified>2014-11-19T17:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\welcomeText.jpg">
+      <PackagePath>Images\welcomeText.jpg</PackagePath>
+      <Modified>2014-11-22T13:23:35.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Music\lmfao.mp3">
+      <PackagePath>Music\lmfao.mp3</PackagePath>
+      <Modified>2014-11-23T19:05:54.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-23T20:08:35.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-23T20:08:35.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\Pages\WelcomePage.xbf">
+      <PackagePath>Pages\WelcomePage.xbf</PackagePath>
+      <Modified>2014-11-23T20:08:35.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-11-23T20:08:35.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\Views\WelcomePage.xbf">
+      <PackagePath>Views\WelcomePage.xbf</PackagePath>
+      <Modified>2014-11-23T20:08:35.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\MagicBallAdvisor.Windows.xr.xml">
+      <PackagePath>MagicBallAdvisor.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-23T20:08:34.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-23T20:55:59.516</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

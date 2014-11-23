@@ -1,0 +1,902 @@
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+D:\nikiProjects\Windows Universal Apps\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+D:\nikiProjects\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\WelcomePage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xaml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xbf
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.xr.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\MagicBallAdvisor.WindowsPhone.build.appxrecipe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\Parse.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xaml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Views\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Pages\WelcomePage.xbf
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.exe
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.pdb
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MagicBallAdvisor.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Todor Gospodinov\Desktop\project\MagicBallAdvisor - Copy - Copy - Copy - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\obj\Debug\ProjectArchitectures.txt

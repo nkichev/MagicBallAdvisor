@@ -1,0 +1,1 @@
+C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\MagicBallAdvisor.Windows.csproj;x86
