@@ -13,6 +13,7 @@
             <ImageBrush ImageSource="../Images/background.png"/>
         </Grid.Background>
         <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
             <RowDefinition Height="250"/>
             <RowDefinition Height="300"/>
             <RowDefinition/>
@@ -22,7 +23,12 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         
-        <Image Grid.Row="0"
+        <TextBlock Grid.Row="0"
+                   Grid.ColumnSpan="2"
+                   Text="Shake what your mamma gave ya!"
+                   FontSize="18"
+                   HorizontalAlignment="Center"/>
+        <Image Grid.Row="1"
                 Grid.ColumnSpan="2"
                 Name="imageBall"
                 Source="../Images/magicball.png"
@@ -35,26 +41,26 @@
                 </UIElement.RenderTransform>
         </Image>
         
-        <StackPanel Grid.Row="1"
+        <StackPanel Grid.Row="2"
                     Grid.Column="0"
                     Grid.ColumnSpan="2">
             <TextBlock Canvas.Top="100"
                        HorizontalAlignment="Stretch"
                        Margin="0 15 0 0"
-                       FontSize="24"
+                       FontSize="21"
                        TextWrapping="Wrap"
                        TextAlignment="Center"
                        Name="textBlockResult"
                        Text="{Binding TextResult}"/>
         </StackPanel>
 
-        <Button Grid.Row="2"
+        <Button Grid.Row="3"
                 Grid.Column="0"
                 Content="Get a tip"
                 HorizontalAlignment="Stretch"
                 VerticalAlignment="Bottom"
                 Command="{Binding GetTip}"/>
-        <Button Grid.Row="2"
+        <Button Grid.Row="3"
                 Grid.Column="1"
                 Content="Share"
                 HorizontalAlignment="Stretch"

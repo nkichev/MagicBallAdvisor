@@ -1,1 +1,1 @@
-C:\Users\Nikolay Kichev\Desktop\MagicBallAdvisor - Copy - Copy - Copy\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\MagicBallAdvisor.WindowsPhone.csproj;x86
+C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.WindowsPhone\MagicBallAdvisor.WindowsPhone.csproj;x86

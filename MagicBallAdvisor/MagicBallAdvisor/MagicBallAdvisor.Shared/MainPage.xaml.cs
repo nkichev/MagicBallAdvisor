@@ -50,13 +50,5 @@ namespace MagicBallAdvisor
                 }
             }
         }
-
-        private void OnHolding(object sender, HoldingRoutedEventArgs e)
-        {
-            if (this.meSong.CurrentState == MediaElementState.Playing)
-	        {
-                this.meSong.Pause();
-	        }
-        }
     }
 }
