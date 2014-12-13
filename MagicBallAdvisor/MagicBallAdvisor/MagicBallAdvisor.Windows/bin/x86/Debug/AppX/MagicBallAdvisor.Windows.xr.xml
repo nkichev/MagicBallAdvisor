@@ -23,7 +23,6 @@
       <RootProperty Name="Children" />
       <RootProperty Name="Name" />
       <RootProperty Name="ManipulationMode" />
-      <RootEvent Name="Holding" />
       <RootEvent Name="ManipulationCompleted" />
       <RootMethod Name="GetRow" />
       <RootMethod Name="SetRow" />
@@ -111,10 +110,6 @@
       <RootProperty Name="Content" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
-    <RootType FullName="Windows.UI.Xaml.Controls.MediaElement">
-      <RootProperty Name="Name" />
-      <RootProperty Name="Source" />
-    </RootType>
     <RootType FullName="MagicBallAdvisor.MainPage" />
     <RootType FullName="MagicBallAdvisor.Pages.WelcomePage" />
   </Roots.RootTypes>

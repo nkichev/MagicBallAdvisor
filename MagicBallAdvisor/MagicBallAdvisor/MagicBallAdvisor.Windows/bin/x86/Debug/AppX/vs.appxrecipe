@@ -20,41 +20,41 @@
     <AppXManifest Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-11-25T11:11:18.435</Modified>
+      <Modified>2014-12-13T16:23:47.753</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\MagicBallAdvisor.Windows.exe">
       <PackagePath>MagicBallAdvisor.Windows.exe</PackagePath>
-      <Modified>2014-11-25T11:14:24.480</Modified>
+      <Modified>2014-12-13T16:23:41.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
       <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
-      <Modified>2014-11-20T20:04:43.031</Modified>
+      <Modified>2014-12-13T16:17:29.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
       <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
-      <Modified>2014-11-20T20:04:43.043</Modified>
+      <Modified>2014-12-13T16:17:29.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
       <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
-      <Modified>2014-11-20T20:04:43.067</Modified>
+      <Modified>2014-12-13T16:17:29.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
-      <Modified>2014-11-20T20:04:42.603</Modified>
+      <Modified>2014-12-13T16:17:27.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\Libs\Parse.dll">
       <PackagePath>Parse.dll</PackagePath>
-      <Modified>2014-10-16T10:48:12.000</Modified>
+      <Modified>2014-12-13T16:17:17.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\Libs\Parse.WinRT.dll">
       <PackagePath>Parse.WinRT.dll</PackagePath>
-      <Modified>2014-10-16T10:48:12.000</Modified>
+      <Modified>2014-12-13T16:17:17.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\packages\WriteableBitmapEx.1.0.14.0\lib\NetCore45\WriteableBitmapEx.WinRT.dll">
       <PackagePath>WriteableBitmapEx.WinRT.dll</PackagePath>
-      <Modified>2014-11-21T20:37:00.035</Modified>
+      <Modified>2014-12-13T16:17:29.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.7.2\Redist\Debug\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
@@ -63,66 +63,66 @@
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T08:55:28.000</Modified>
+      <Modified>2014-12-13T16:17:20.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T08:55:28.000</Modified>
+      <Modified>2014-12-13T16:17:20.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T08:55:28.000</Modified>
+      <Modified>2014-12-13T16:17:20.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T08:55:28.000</Modified>
+      <Modified>2014-12-13T16:17:20.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\background.png">
       <PackagePath>Images\background.png</PackagePath>
-      <Modified>2014-11-19T17:34:14.000</Modified>
+      <Modified>2014-12-13T16:17:18.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\magicball.png">
       <PackagePath>Images\magicball.png</PackagePath>
-      <Modified>2014-11-19T17:34:14.000</Modified>
+      <Modified>2014-12-13T16:17:18.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Images\welcomeText.jpg">
       <PackagePath>Images\welcomeText.jpg</PackagePath>
-      <Modified>2014-11-22T13:23:35.267</Modified>
+      <Modified>2014-12-13T16:17:18.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Shared\Music\lmfao.mp3">
       <PackagePath>Music\lmfao.mp3</PackagePath>
-      <Modified>2014-11-23T19:05:54.729</Modified>
+      <Modified>2014-12-13T16:17:20.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-11-25T11:10:59.183</Modified>
+      <Modified>2014-12-13T16:23:41.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-11-25T11:10:59.445</Modified>
+      <Modified>2014-12-13T16:23:41.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\Pages\WelcomePage.xbf">
       <PackagePath>Pages\WelcomePage.xbf</PackagePath>
-      <Modified>2014-11-25T11:10:59.697</Modified>
+      <Modified>2014-12-13T16:23:41.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2014-11-25T11:14:23.439</Modified>
+      <Modified>2014-12-13T16:23:41.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\Views\WelcomePage.xbf">
       <PackagePath>Views\WelcomePage.xbf</PackagePath>
-      <Modified>2014-11-25T11:10:59.268</Modified>
+      <Modified>2014-12-13T16:23:41.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\MagicBallAdvisor.Windows.xr.xml">
       <PackagePath>MagicBallAdvisor.Windows.xr.xml</PackagePath>
-      <Modified>2014-11-25T11:10:57.745</Modified>
+      <Modified>2014-12-13T16:17:24.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Nikolay Kichev\Documents\GitHub\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor\MagicBallAdvisor.Windows\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-11-25T11:11:14.658</Modified>
+      <Modified>2014-12-13T16:23:46.497</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
