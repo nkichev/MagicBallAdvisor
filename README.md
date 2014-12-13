@@ -17,3 +17,6 @@ APIs usage:
     SQLite - to save your name
 
 ![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet01.png)
+
+![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet02.png)
+
