@@ -20,3 +20,15 @@ APIs usage:
 
 ![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet02.png)
 
+![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet03.png)
+
+![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet04.png)
+
+![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet05.png)
+
+![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet06.png)
+
+![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet07.png)
+
+![alt tag](https://raw.githubusercontent.com/nkichev/MagicBallAdvisor/master/images/MBATablet08.png)
+
